@@ -10,13 +10,9 @@ yarn-error.log*
 dist/
 build/
 
-# Arquivos de ambiente (caso use)
+# Ambiente
 .env
 
 # Sistema operacional
 .DS_Store
 Thumbs.db
-node_modules/
-dist/
-build/
-.env
